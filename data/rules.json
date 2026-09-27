@@ -1,0 +1,17 @@
+{
+  "monthly_budget_ceiling": 20000,
+  "category_budget_caps": {
+    "electronics": 15000,
+    "clothing": 4000,
+    "furniture": 25000,
+    "appliances": 30000
+  },
+  "must_have_keywords": [
+    "warranty"
+  ],
+  "dealbreaker_keywords": [
+    "refurbished",
+    "no return policy",
+    "used"
+  ]
+}
